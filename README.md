@@ -1,5 +1,5 @@
 # CodingAdvent2k20 :christmas_tree:
-This Repository contains my code solutions for the "Advent of Code - 2012" activity. The solutions are written with **TypeScript**. 
+This Repository contains my code solutions for the "Advent of Code - 2020" activity. The solutions are written with **TypeScript**. 
 I can really recommend this activity if you're new to programming, want to improve your skills or if you just want to learn a new language - as I do with **TS**.
 
 Wanna try it yourself? The description of each day (programming puzzle) can be found [here](https://adventofcode.com/2020).
